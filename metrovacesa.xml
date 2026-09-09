@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-metrovacesa/main/metrovacesa.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 09 Sep 2026 07:47:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:47:19 +0000</lastBuildDate>
+    <item>
+      <title>Metrovacesa inicia la comercialización de Mesena 82 Fase 2 en Madrid, con una inversión estimada de 16 millones de euros</title>
+      <link>https://metrovacesa.com/metrovacesa-inicia-la-comercializacion-de-mesena-82-fase-2-en-madrid-con-una-inversion-estimada-de-16-millones-de-euros/</link>
+      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-inicia-la-comercializacion-de-mesena-82-fase-2-en-madrid-con-una-inversion-estimada-de-16-millones-de-euros/</guid>
+      <description>Noticia oficial publicada por Metrovacesa.</description>
+      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
+      <pubDate>Wed, 09 Sep 2026 06:12:35 +0000</pubDate>
+    </item>
     <item>
       <title>Metrovacesa entrega las viviendas de Residencial Villas del Mar, su promoción de unifamiliares pareadas junto al Mediterráneo en Castellón</title>
       <link>https://metrovacesa.com/metrovacesa-entrega-las-viviendas-de-residencial-villas-del-mar-su-promocin-de-unifamiliares-pareadas-junto-al-mediterrneo-en-castelln/</link>
@@ -399,14 +407,6 @@
       <description>Noticia oficial publicada por Metrovacesa.</description>
       <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
       <pubDate>Wed, 28 Jan 2026 08:22:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metrovacesa inicia la entrega de viviendas de Serene Atalaya F2 en Estepona tras una inversión de 24,9 millones de euros</title>
-      <link>https://metrovacesa.com/metrovacesa-inicia-la-entrega-de-viviendas-de-serene-atalaya-f2-en-estepona-tras-una-inversion-de-249-millones-de-euros/</link>
-      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-inicia-la-entrega-de-viviendas-de-serene-atalaya-f2-en-estepona-tras-una-inversion-de-249-millones-de-euros/</guid>
-      <description>Noticia oficial publicada por Metrovacesa.</description>
-      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
-      <pubDate>Tue, 27 Jan 2026 10:02:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
