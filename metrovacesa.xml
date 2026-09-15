@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-metrovacesa/main/metrovacesa.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 15 Sep 2026 07:49:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Metrovacesa selecciona once finalistas en su AI Challenge II para aplicar la IA a procesos reales del negocio promotor</title>
+      <link>https://metrovacesa.com/metrovacesa-selecciona-once-finalistas-en-su-ai-challenge-ii-para-aplicar-la-ia-a-procesos-reales-del-negocio-promotor/</link>
+      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-selecciona-once-finalistas-en-su-ai-challenge-ii-para-aplicar-la-ia-a-procesos-reales-del-negocio-promotor/</guid>
+      <description>Noticia oficial publicada por Metrovacesa.</description>
+      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
+      <pubDate>Tue, 15 Sep 2026 07:35:02 +0000</pubDate>
+    </item>
     <item>
       <title>Metrovacesa inicia la comercialización de Mesena 82 Fase 2 en Madrid, con una inversión estimada de 16 millones de euros</title>
       <link>https://metrovacesa.com/metrovacesa-inicia-la-comercializacion-de-mesena-82-fase-2-en-madrid-con-una-inversion-estimada-de-16-millones-de-euros/</link>
@@ -399,14 +407,6 @@
       <description>Noticia oficial publicada por Metrovacesa.</description>
       <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
       <pubDate>Thu, 29 Jan 2026 09:51:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iberdrola y Metrovacesa impulsan la electrificación sostenible de obra nueva</title>
-      <link>https://metrovacesa.com/iberdrola-y-metrovacesa-impulsan-la-electrificacion-sostenible-de-obra-nueva/</link>
-      <guid isPermaLink="true">https://metrovacesa.com/iberdrola-y-metrovacesa-impulsan-la-electrificacion-sostenible-de-obra-nueva/</guid>
-      <description>Noticia oficial publicada por Metrovacesa.</description>
-      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
-      <pubDate>Wed, 28 Jan 2026 08:22:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
