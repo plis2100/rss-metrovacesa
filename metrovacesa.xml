@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-metrovacesa/main/metrovacesa.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 28 Sep 2026 14:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:16:32 +0000</lastBuildDate>
+    <item>
+      <title>Metrovacesa inicia en Mijas las obras de Almare, con una inversión de 18,7 millones de euros</title>
+      <link>https://metrovacesa.com/metrovacesa-inicia-en-mijas-las-obras-de-almare-con-una-inversion-de-187-millones-de-euros/</link>
+      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-inicia-en-mijas-las-obras-de-almare-con-una-inversion-de-187-millones-de-euros/</guid>
+      <description>Noticia oficial publicada por Metrovacesa.</description>
+      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
+      <pubDate>Mon, 28 Sep 2026 11:14:34 +0000</pubDate>
+    </item>
     <item>
       <title>Metrovacesa obtiene la licencia de obra de Residencial Tossal, un proyecto de 64 viviendas en Castellón</title>
       <link>https://metrovacesa.com/metrovacesa-obtiene-la-licencia-de-obra-de-residencial-tossal-un-proyecto-de-64-viviendas-en-castelln/</link>
@@ -399,14 +407,6 @@
       <description>Noticia oficial publicada por Metrovacesa.</description>
       <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
       <pubDate>Wed, 04 Feb 2026 08:46:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>La presión demográfica mantiene a Alicante entre los mercados más tensionados del país</title>
-      <link>https://metrovacesa.com/la-presion-demografica-mantiene-a-alicante-entre-los-mercados-mas-tensionados-del-pais/</link>
-      <guid isPermaLink="true">https://metrovacesa.com/la-presion-demografica-mantiene-a-alicante-entre-los-mercados-mas-tensionados-del-pais/</guid>
-      <description>Noticia oficial publicada por Metrovacesa.</description>
-      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
-      <pubDate>Tue, 03 Feb 2026 09:54:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
