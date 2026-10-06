@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-metrovacesa/main/metrovacesa.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 05 Oct 2026 15:12:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:34:01 +0000</lastBuildDate>
+    <item>
+      <title>Metrovacesa avanza en Los Cerros con Zinnia, su segunda promoción de 115 viviendas</title>
+      <link>https://metrovacesa.com/metrovacesa-avanza-en-los-cerros-con-zinnia-su-segunda-promocion-de-115-viviendas/</link>
+      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-avanza-en-los-cerros-con-zinnia-su-segunda-promocion-de-115-viviendas/</guid>
+      <description>Noticia oficial publicada por Metrovacesa.</description>
+      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
+      <pubDate>Tue, 06 Oct 2026 07:36:41 +0000</pubDate>
+    </item>
     <item>
       <title>Metrovacesa inicia en Mijas las obras de Almare, con una inversión de 18,7 millones de euros</title>
       <link>https://metrovacesa.com/metrovacesa-inicia-en-mijas-las-obras-de-almare-con-una-inversion-de-187-millones-de-euros/</link>
@@ -399,14 +407,6 @@
       <description>Noticia oficial publicada por Metrovacesa.</description>
       <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
       <pubDate>Mon, 09 Feb 2026 08:45:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metrovacesa entrega Lyra Residencial, 21 nuevas viviendas en Benicalap</title>
-      <link>https://metrovacesa.com/metrovacesa-entrega-lyra-residencial-21-nuevas-viviendas-en-benicalap/</link>
-      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-entrega-lyra-residencial-21-nuevas-viviendas-en-benicalap/</guid>
-      <description>Noticia oficial publicada por Metrovacesa.</description>
-      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
-      <pubDate>Wed, 04 Feb 2026 08:46:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
