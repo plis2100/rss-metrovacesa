@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-metrovacesa/main/metrovacesa.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 07 Oct 2026 13:49:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:57:20 +0000</lastBuildDate>
+    <item>
+      <title>Persuadis, Syte y Virtual Mike, ganadores del Metrovacesa AI Challenge II por sus soluciones de IA aplicadas al negocio inmobiliario</title>
+      <link>https://metrovacesa.com/persuadis-syte-y-virtual-mike-ganadores-del-metrovacesa-ai-challenge-ii-por-sus-soluciones-de-ia-aplicadas-al-negocio-inmobiliario/</link>
+      <guid isPermaLink="true">https://metrovacesa.com/persuadis-syte-y-virtual-mike-ganadores-del-metrovacesa-ai-challenge-ii-por-sus-soluciones-de-ia-aplicadas-al-negocio-inmobiliario/</guid>
+      <description>Noticia oficial publicada por Metrovacesa.</description>
+      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
+      <pubDate>Wed, 07 Oct 2026 14:51:27 +0000</pubDate>
+    </item>
     <item>
       <title>Metrovacesa avanza en Los Cerros con Zinnia, su segunda promoción de 115 viviendas</title>
       <link>https://metrovacesa.com/metrovacesa-avanza-en-los-cerros-con-zinnia-su-segunda-promocion-de-115-viviendas/</link>
@@ -399,14 +407,6 @@
       <description>Noticia oficial publicada por Metrovacesa.</description>
       <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
       <pubDate>Mon, 23 Feb 2026 08:55:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metrovacesa pone en marcha las obras de Novolérez IV, nuevo desarrollo residencial junto al río Lérez en Pontevedra</title>
-      <link>https://metrovacesa.com/metrovacesa-pone-en-marcha-las-obras-de-novolerez-iv-nuevo-desarrollo-residencial-junto-al-rio-lerez-en-pontevedra/</link>
-      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-pone-en-marcha-las-obras-de-novolerez-iv-nuevo-desarrollo-residencial-junto-al-rio-lerez-en-pontevedra/</guid>
-      <description>Noticia oficial publicada por Metrovacesa.</description>
-      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
-      <pubDate>Mon, 09 Feb 2026 08:45:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
