@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-metrovacesa/main/metrovacesa.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 14 Oct 2026 12:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:00:58 +0000</lastBuildDate>
+    <item>
+      <title>Metrovacesa obtiene la licencia de obras para construir 240 viviendas en Sagunto</title>
+      <link>https://metrovacesa.com/metrovacesa-obtiene-la-licencia-de-obras-para-construir-240-viviendas-en-sagunto/</link>
+      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-obtiene-la-licencia-de-obras-para-construir-240-viviendas-en-sagunto/</guid>
+      <description>Noticia oficial publicada por Metrovacesa.</description>
+      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
+      <pubDate>Thu, 15 Oct 2026 08:46:59 +0000</pubDate>
+    </item>
     <item>
       <title>Persuadis, Syte y Virtual Mike, ganadores del Metrovacesa AI Challenge II por sus soluciones de IA aplicadas al negocio inmobiliario</title>
       <link>https://metrovacesa.com/persuadis-syte-y-virtual-mike-ganadores-del-metrovacesa-ai-challenge-ii-por-sus-soluciones-de-ia-aplicadas-al-negocio-inmobiliario/</link>
@@ -399,14 +407,6 @@
       <description>Noticia oficial publicada por Metrovacesa.</description>
       <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
       <pubDate>Tue, 24 Feb 2026 07:01:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metrovacesa finaliza su nueva promoción Molí Mistral en Quart de Poblet</title>
-      <link>https://metrovacesa.com/metrovacesa-finaliza-su-nueva-promocion-moli-mistral-en-quart-de-poblet/</link>
-      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-finaliza-su-nueva-promocion-moli-mistral-en-quart-de-poblet/</guid>
-      <description>Noticia oficial publicada por Metrovacesa.</description>
-      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
-      <pubDate>Mon, 23 Feb 2026 08:55:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
