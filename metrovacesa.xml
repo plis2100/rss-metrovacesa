@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-metrovacesa/main/metrovacesa.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Oct 2026 12:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:17:52 +0000</lastBuildDate>
+    <item>
+      <title>Metrovacesa reivindica en el III Congreso Nacional de Arquitectura Saludable un diseño urbano y residencial centrado en la salud y el bienestar</title>
+      <link>https://metrovacesa.com/metrovacesa-reivindica-en-el-iii-congreso-nacional-de-arquitectura-saludable-un-diseno-urbano-y-residencial-centrado-en-la-salud-y-el-bienestar/</link>
+      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-reivindica-en-el-iii-congreso-nacional-de-arquitectura-saludable-un-diseno-urbano-y-residencial-centrado-en-la-salud-y-el-bienestar/</guid>
+      <description>Noticia oficial publicada por Metrovacesa.</description>
+      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
+      <pubDate>Wed, 21 Oct 2026 11:20:40 +0000</pubDate>
+    </item>
     <item>
       <title>Metrovacesa obtiene la licencia de obras para construir 240 viviendas en Sagunto</title>
       <link>https://metrovacesa.com/metrovacesa-obtiene-la-licencia-de-obras-para-construir-240-viviendas-en-sagunto/</link>
@@ -399,14 +407,6 @@
       <description>Noticia oficial publicada por Metrovacesa.</description>
       <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
       <pubDate>Wed, 25 Feb 2026 17:21:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metrovacesa incrementa un 74% su EBITDA y dispara el beneficio neto hasta 56,9 millones en 2025</title>
-      <link>https://metrovacesa.com/metrovacesa-incrementa-un-74-su-ebitda-y-dispara-el-beneficio-neto-hasta-569-millones-en-2025/</link>
-      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-incrementa-un-74-su-ebitda-y-dispara-el-beneficio-neto-hasta-569-millones-en-2025/</guid>
-      <description>Noticia oficial publicada por Metrovacesa.</description>
-      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
-      <pubDate>Tue, 24 Feb 2026 07:01:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
