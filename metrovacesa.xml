@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-metrovacesa/main/metrovacesa.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 21 Oct 2026 12:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:19:00 +0000</lastBuildDate>
+    <item>
+      <title>Metrovacesa eleva sus ingresos hasta septiembre un 75% y anuncia un dividendo de 1 euro por acción en diciembre</title>
+      <link>https://metrovacesa.com/metrovacesa-eleva-sus-ingresos-hasta-septiembre-un-75-y-anuncia-un-dividendo-de-1-euro-por-accion-en-diciembre/</link>
+      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-eleva-sus-ingresos-hasta-septiembre-un-75-y-anuncia-un-dividendo-de-1-euro-por-accion-en-diciembre/</guid>
+      <description>Noticia oficial publicada por Metrovacesa.</description>
+      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
+      <pubDate>Wed, 21 Oct 2026 15:01:18 +0000</pubDate>
+    </item>
     <item>
       <title>Metrovacesa reivindica en el III Congreso Nacional de Arquitectura Saludable un diseño urbano y residencial centrado en la salud y el bienestar</title>
       <link>https://metrovacesa.com/metrovacesa-reivindica-en-el-iii-congreso-nacional-de-arquitectura-saludable-un-diseno-urbano-y-residencial-centrado-en-la-salud-y-el-bienestar/</link>
@@ -399,14 +407,6 @@
       <description>Noticia oficial publicada por Metrovacesa.</description>
       <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
       <pubDate>Thu, 26 Feb 2026 10:40:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Barcelona: un mercado residencial tensionado por un déficit estructural persistente</title>
-      <link>https://metrovacesa.com/barcelona-un-mercado-residencial-tensionado-por-un-deficit-estructural-persistente/</link>
-      <guid isPermaLink="true">https://metrovacesa.com/barcelona-un-mercado-residencial-tensionado-por-un-deficit-estructural-persistente/</guid>
-      <description>Noticia oficial publicada por Metrovacesa.</description>
-      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
-      <pubDate>Wed, 25 Feb 2026 17:21:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
