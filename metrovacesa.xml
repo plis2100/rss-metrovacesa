@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-metrovacesa/main/metrovacesa.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Nov 2026 14:36:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:50:16 +0000</lastBuildDate>
+    <item>
+      <title>Sevilla encuentra en el aumento de la oferta una vía para responder a las necesidades de vivienda</title>
+      <link>https://metrovacesa.com/sevilla-encuentra-en-el-aumento-de-la-oferta-una-via-para-responder-a-las-necesidades-de-vivienda/</link>
+      <guid isPermaLink="true">https://metrovacesa.com/sevilla-encuentra-en-el-aumento-de-la-oferta-una-via-para-responder-a-las-necesidades-de-vivienda/</guid>
+      <description>Noticia oficial publicada por Metrovacesa.</description>
+      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
+      <pubDate>Wed, 04 Nov 2026 07:25:19 +0000</pubDate>
+    </item>
     <item>
       <title>Metrovacesa impulsa la regeneración urbana de Els Orriols con el desarrollo de Nova Urbe</title>
       <link>https://metrovacesa.com/metrovacesa-impulsa-la-regeneracion-urbana-de-els-orriols-con-el-desarrollo-de-nova-urbe/</link>
@@ -399,14 +407,6 @@
       <description>Noticia oficial publicada por Metrovacesa.</description>
       <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
       <pubDate>Wed, 04 Mar 2026 17:52:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metrovacesa impulsa la transformación de Cruz del Campo, uno de los nuevos polos residenciales de Sevilla</title>
-      <link>https://metrovacesa.com/metrovacesa-impulsa-la-transformacion-de-cruz-del-campo-uno-de-los-nuevos-polos-residenciales-de-sevilla/</link>
-      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-impulsa-la-transformacion-de-cruz-del-campo-uno-de-los-nuevos-polos-residenciales-de-sevilla/</guid>
-      <description>Noticia oficial publicada por Metrovacesa.</description>
-      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
-      <pubDate>Wed, 04 Mar 2026 09:32:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
