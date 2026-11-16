@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-metrovacesa/main/metrovacesa.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 15 Nov 2026 14:15:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:20:10 +0000</lastBuildDate>
+    <item>
+      <title>Metrovacesa inicia la comercialización de Swing Golf Fase II, con 57 viviendas en Pulpí</title>
+      <link>https://metrovacesa.com/metrovacesa-inicia-la-comercializacin-de-swing-golf-fase-ii-con-57-viviendas-en-pulpi/</link>
+      <guid isPermaLink="true">https://metrovacesa.com/metrovacesa-inicia-la-comercializacin-de-swing-golf-fase-ii-con-57-viviendas-en-pulpi/</guid>
+      <description>Noticia oficial publicada por Metrovacesa.</description>
+      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
+      <pubDate>Mon, 16 Nov 2026 07:58:25 +0000</pubDate>
+    </item>
     <item>
       <title>Sevilla encuentra en el aumento de la oferta una vía para responder a las necesidades de vivienda</title>
       <link>https://metrovacesa.com/sevilla-encuentra-en-el-aumento-de-la-oferta-una-via-para-responder-a-las-necesidades-de-vivienda/</link>
@@ -399,14 +407,6 @@
       <description>Noticia oficial publicada por Metrovacesa.</description>
       <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
       <pubDate>Mon, 09 Mar 2026 10:50:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud destaca a Metrovacesa como caso de éxito por MiA, su asistente de IA 24/7</title>
-      <link>https://metrovacesa.com/google-cloud-destaca-a-metrovacesa-como-caso-de-exito-por-mia-su-asistente-de-ia-24-7/</link>
-      <guid isPermaLink="true">https://metrovacesa.com/google-cloud-destaca-a-metrovacesa-como-caso-de-exito-por-mia-su-asistente-de-ia-24-7/</guid>
-      <description>Noticia oficial publicada por Metrovacesa.</description>
-      <source url="https://metrovacesa.com/category/sala-de-prensa">Metrovacesa</source>
-      <pubDate>Wed, 04 Mar 2026 17:52:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
